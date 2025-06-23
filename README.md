@@ -1,2 +1,2 @@
-# qb-walker
-Solo quizbowl for walks in the park :)
+# qb-walker-data
+Data processing repository for qb-walker
