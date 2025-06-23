@@ -193,7 +193,3 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Project files
-
-science/
-history/
