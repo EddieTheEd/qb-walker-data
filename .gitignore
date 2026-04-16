@@ -193,3 +193,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+
+
+qb_history.json
+qb_science.json
