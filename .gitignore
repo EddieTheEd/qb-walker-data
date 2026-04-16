@@ -197,3 +197,4 @@ cython_debug/
 
 qb_history.json
 qb_science.json
+batchmove.sh
